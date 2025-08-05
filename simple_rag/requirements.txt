@@ -1,0 +1,8 @@
+streamlit
+llama_index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
+llama-index-vector-stores-qdrant
+optimum[openvino]
+fastembed-gpu

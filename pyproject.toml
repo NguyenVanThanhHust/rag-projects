@@ -1,0 +1,24 @@
+[project]
+name = "rag-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit",
+    "diagrams",
+    "llama_index",
+    "llama_index-embeddings-huggingface",
+    "diagrams",
+    "pymilvus",
+    "openai",
+    "requests",
+    "tqdm",
+    "sentence-transformers",
+    "ipykernel",
+    "python-dotenv",
+    "ipywidgets",
+    "jupyter",
+    "langgraph",
+    "langchain_ollama"
+]
