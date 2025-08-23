@@ -1,3 +1,7 @@
+milvus_tutorials/milvus_docs/*
+*.zip
+*.db
+*.db.lock
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
