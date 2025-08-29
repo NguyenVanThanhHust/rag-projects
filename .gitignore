@@ -1,3 +1,5 @@
+milvus_tutorials/apps/rag_search_with_milvus/milvus_docs/*
+volumes/*
 milvus_tutorials/milvus_docs/*
 *.zip
 *.db

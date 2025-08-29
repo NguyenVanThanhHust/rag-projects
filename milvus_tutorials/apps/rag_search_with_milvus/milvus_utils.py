@@ -26,7 +26,7 @@ def create_collection(
         auto_id=True
     )
 
-def get_search_result(milvus_client, collection_name, query_vector, output_fields):
+def get_search_results(milvus_client, collection_name, query_vector, output_fields):
     search_result = milvus_client.search(
         collection_name=collection_name,
         data=[query_vector],

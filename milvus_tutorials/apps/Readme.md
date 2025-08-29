@@ -1,0 +1,1 @@
+https://github.com/milvus-io/bootcamp/tree/master/tutorials/quickstart/apps
