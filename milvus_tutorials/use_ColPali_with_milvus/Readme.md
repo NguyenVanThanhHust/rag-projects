@@ -1,0 +1,1 @@
+https://milvus.io/docs/use_ColPali_with_milvus.md

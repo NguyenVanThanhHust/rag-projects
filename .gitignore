@@ -1,3 +1,4 @@
+*.png
 uncategorized/vector-visualization/milvus_docs/*
 milvus_tutorials/apps/rag_search_with_milvus/milvus_docs/*
 volumes/*
